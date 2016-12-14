@@ -5,8 +5,8 @@ You can do dense reconstruction outdoors with the depth data from ZED and the ca
 
 This is what I did: Outdoor-DepthAR with ZED. For indoor-DepthAR, you can choose some rgbd-cameras.
 <p align="center">
-<img src="https://github.com/ygx2011/ZED_Stereo_ORBSLAM/blob/master/pic/DepthAR-zed.png?raw=true" alt="DepthAR-zed"/>
-<img src="https://github.com/ygx2011/ZED_Stereo_ORBSLAM/blob/master/pic/DepthAR.png?raw=true" alt="DepthAR"/>
+<img src="https://github.com/ygx2011/ZED_Stereo_ORBSLAM/blob/master/pic/DepthAR-zed.png?raw=true" alt="DepthAR-zed" width="240" height="180" border="10"/>
+<img src="https://github.com/ygx2011/ZED_Stereo_ORBSLAM/blob/master/pic/DepthAR.png?raw=true" alt="DepthAR" width="240" height="180" border="10"/>
 </p>
 
 You can watch the video on my YouTube.
