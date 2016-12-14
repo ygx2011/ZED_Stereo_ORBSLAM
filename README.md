@@ -4,10 +4,10 @@ This is stereo orb_slam with ZED Stereo Camera.
 You can do dense reconstruction outdoors with the depth data from ZED and the camera pose from orb_slam.
 
 This is what I did: Outdoor-DepthAR with ZED.
- ![image](https://github.com/ygx2011/ZED_Stereo_ORBSLAM/tree/master/pic/DepthAR-zed.PNG)
+ ![image](https://github.com/ygx2011/ZED_Stereo_ORBSLAM/tree/master/pic/DepthAR-zed.png)
 
 For indoor-DepthAR, you can choose some rgbd-cameras.
-![image](https://github.com/ygx2011/ZED_Stereo_ORBSLAM/tree/master/pic/DepthAR.PNG)
+![image](https://github.com/ygx2011/ZED_Stereo_ORBSLAM/tree/master/pic/DepthAR.png)
 
 You can watch the video on my YouTube.
 
