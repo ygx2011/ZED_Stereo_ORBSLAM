@@ -9,6 +9,8 @@ This is what I did: Outdoor-DepthAR with ZED. For indoor-DepthAR, you can choose
 <img src="https://github.com/ygx2011/ZED_Stereo_ORBSLAM/blob/master/pic/DepthAR.png?raw=true" alt="DepthAR" width="270" height="200" border="50"/>
 </p>
 
+If you are interested in SLAM-AR, you can see my another project [Stereo-SLAM-AR](https://github.com/ygx2011/Stereo_SLAM_AR).
+
 You can watch the video on my YouTube.
 
 <a href="https://www.youtube.com/watch?v=2Jz937AZ_Qo
